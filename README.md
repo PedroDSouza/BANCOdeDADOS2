@@ -1,4 +1,4 @@
-# BANCOdeDADOS2
+# BANCO de DADOS 2
 ### ARQUIVOS DE BD2
 
 
